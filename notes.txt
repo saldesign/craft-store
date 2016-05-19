@@ -1,0 +1,28 @@
+Craft Store
+
+	Home
+		Welcome introduction
+		Quick Links 2 
+		New Products feed 6 products
+		Popular Products?
+		Recent Posts feed 3 posts
+
+
+
+	Products
+		Cups & Mugs
+		Teapots
+		Bowls
+		Plates
+
+	Cart
+		My Account
+		Sign In/Out
+
+	Blog
+
+	About
+
+
+
+
